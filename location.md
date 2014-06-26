@@ -3,5 +3,12 @@ layout: page
 title: Location
 ---
 
-TODO: describe where it is, how to get there; perhaps also info on hotels?
+<p class="message">
+  The workshop will take place at the RWTH Aachen. More information
+  will soon be made available.
+</p>
+
+<!--
+TODO: describe where it is going to take place exactly, how to get there; perhaps also info on hotels?
+-->
 

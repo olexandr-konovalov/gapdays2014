@@ -3,6 +3,12 @@ layout: page
 title: Registration
 ---
 
+<p class="message">
+  Registration is not yet open.
+</p>
+
+<!--
+
 TODO: offer a form for registration.
 
 Also state a registration deadline?
@@ -22,3 +28,5 @@ things to ask for:
 Question: Organize a conference dinner? If so -- ask for dietary requirements?
 
 Question: Ask for a (small) conference fee??? 
+
+-->

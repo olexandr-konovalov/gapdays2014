@@ -3,4 +3,6 @@ layout: page
 title: Program
 ---
 
-TODO: Initially an empty placeholder; later, put up a timetable here.
+<p class="message">
+  The workshop program is not yet available.
+</p>
