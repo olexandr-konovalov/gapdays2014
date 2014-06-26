@@ -39,5 +39,6 @@ TODO: add another set of links to registration etc.???
 
 If you have question or suggestions please contact the organizers:
 
-Mohamed Barakat (<mohamed.barakat@ku.de>),
-Max Horn (<max.horn@math.uni-giessen.de>)
+* Mohamed Barakat <<mohamed.barakat@ku.de>>
+* Max Horn <<max.horn@math.uni-giessen.de>>
+* Frank Lübeck <<frank.luebeck@math.rwth-aachen.de>> (local orgainzer)
