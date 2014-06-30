@@ -8,7 +8,9 @@ permalink:        pretty
 # Setup
 title:            'GAP Days 2014'
 tagline:          'A workshop for GAP developers and users'
-description:      'A workshop for <a href="http://www.gap-system.org/">GAP</a> developers and users.'
+#description:      'A workshop for <a href="http://www.gap-system.org/">GAP</a> developers and users.'
+#description:      'A workshop for <a href="http://www.gap-system.org/">GAP</a> developers and users, August 25-20, 2014, RWTH Aachen.'
+description:      'August 25-20, 2014, RWTH Aachen'
 url:              http://gapdays2014.coxeter.de/
 baseurl:          /
 
