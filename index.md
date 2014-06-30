@@ -44,7 +44,7 @@ The workshop will take place the RWTH Aachen. Information about the
 exact location, travel directions and information about hotels
 can be found on [the location page](/location).
 
-## Contact
+## <a name="contact"></a> Contact
 
 If you have questions or suggestions, please contact the organizers:
 
