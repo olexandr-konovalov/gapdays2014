@@ -3,9 +3,15 @@ layout: page
 title: Registration
 ---
 
+
+<!--
 <p class="message">
   Registration is not yet open.
 </p>
+-->
+
+[To the registration form](https://docs.google.com/forms/d/1m5f-sZM_slJBnKV-LqOSfl2lHlzpecdKCVg_YDXwsD8/viewform?usp=send_form)
+
 
 <!--
 
@@ -23,7 +29,6 @@ things to ask for:
 - Financial support required?
   -> If we have more requests than we can handle, how do we
       prioritize?
-
 
 Question: Organize a conference dinner? If so -- ask for dietary requirements?
 
