@@ -1,14 +1,9 @@
 ---
 layout: page
 title: Participants
-names:
 ---
 
-<p class="message">
-  The list of participants is not yet available.
-</p>
-
-{% comment %}
+The following people have registered so far:
 
 <ul>
 {% for p in site.data.participants %}
@@ -18,5 +13,3 @@ names:
   </li>
 {% endfor %}
 </ul>
-
-{% endcomment %}
