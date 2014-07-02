@@ -10,8 +10,21 @@ title: Program
   suggestions and requests.
 </p>
 
+* Begin: 25 August, 10:00
+* End: 29 August, 16:00
 
-## Possible outline of topics
+## Suggested coding topics so far:
+
+1. Work on a beta release of HPC-GAP
+   * Stabilize the single threaded mode
+   * Simplify the installation
+   * Offer support for package developers who want to migrate their packages
+2. Document and automate the GAP release process
+   * Other GAP centers should be able to finalize a GAP release
+   * Prepare GAP 4.8
+
+
+## Suggested discussion topics so far:
 
 1. Mathematics and algorithms for GAP
 	* Presentation of (new) packages by their authors
