@@ -21,7 +21,7 @@ If you would like to attend, please [register](/register). This helps us
 with planning the workshop.
 
 The workshop will take place the RWTH Aachen University. Information about the
-exact location, travel directions and information about hotels
+exact location and information about hotels
 can be found on [the location page](/location).
 
 ## <a name="contact"></a> Contact
