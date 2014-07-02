@@ -7,11 +7,13 @@ title: Program
   The workshop program is not yet available.
   However, you may find a rough outline of topics below.
   This is not final and we are interested to hear your
-  suggestions and requests.
+  suggestions and requests. <br/>
+  
+  The final program will be released a week before the meeting.
 </p>
 
-* Begin: 25 August, 10:00
-* End: 29 August, 16:00
+* Begin: August 25, 10:00
+* End: August 29, 16:00
 
 ## Suggested discussion & coding topics so far:
 
@@ -32,7 +34,7 @@ title: Program
 	* Missing in GAP (but badly needed)
 	* ...
 2. GAP development model
-	* Collect feedback and wishes regarding the GAP version control system, branches, etc.
+	* Collect feedback and wishes regarding the GAP source code repository, branches, etc.
 	* ...
 3. Future of GAP as (part of) a platform for constructive mathematics
 	* The kernel (modularization, modernization, extensions, …)
