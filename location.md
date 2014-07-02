@@ -4,7 +4,7 @@ title: Location
 ---
 
 <p class="message">
-  The workshop will take place at the RWTH Aachen. More information
+  The workshop will take place at the RWTH Aachen University. More information
   will soon be made available.
 </p>
 

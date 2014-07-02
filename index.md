@@ -4,7 +4,7 @@ title: Home
 ---
 
 # First [GAP](http://www.gap-system.org/) Days
-## August 25-29, 2014, RWTH Aachen
+## August 25-29, 2014, RWTH Aachen University
 
 [GAP](http://www.gap-system.org/) Days are meetings where developers and users are invited to influence the future
 development of GAP by initiating and contributing to discussions and coding sprints.
@@ -20,7 +20,7 @@ you made.
 If you would like to attend, please [register](/register). This helps us
 with planning the workshop.
 
-The workshop will take place the RWTH Aachen. Information about the
+The workshop will take place the RWTH Aachen University. Information about the
 exact location, travel directions and information about hotels
 can be found on [the location page](/location).
 
