@@ -3,25 +3,17 @@ layout: default
 title: Home
 ---
 
-# First GAP Days
+# First [GAP](http://www.gap-system.org/) Days
 ## August 25-29, 2014, RWTH Aachen
 
-The aim of this meeting is to bring together [GAP](http://www.gap-system.org)
-developers and users to exchange ideas and influence the future development of
-GAP. The meeting will be used to advertise recent developments in core GAP
-(e.g., [HPC-GAP](http://www-circa.mcs.st-and.ac.uk/hpcgap.php))
-and new packages (e.g.
-[AutoDoc](https://github.com/homalg-project/AutoDoc),
-[libsing](http://gap-system.github.io/libsing/), ...).
-
-Besides talks, there will also be open discussion rounds (about problems,
-ideas, and possible solutions regarding GAP’s future) and several coding
-sprints (where some people sit together to implement a fix or a new feature,
-or write documentation, or…). In addition, as enough GAP experts will be
-around for technical support, the meeting also offers a good opportunity for
-people to work on their own packages. At the end of the week, we would be
-happy to hear about any progress you made.
-
+[GAP](http://www.gap-system.org/) Days are meetings where developers and users are invited to influence the future
+development of GAP by initiating and contributing to discussions and coding sprints.
+As enough GAP experts will be around for technical support, the meetings also offers
+a good opportunity for people to work on their own packages. To streamline each meeting
+the organizers will usually suggest few main topics to address during the week.
+The meetings are also suitable for advertising recent developments in core GAP
+and packages. At the end of the week, we would be happy to hear about any progress
+you made.
 
 ## Registering and stay
 
