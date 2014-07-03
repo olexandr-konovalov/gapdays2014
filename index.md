@@ -31,3 +31,8 @@ If you have questions or suggestions, please contact the organizers:
 * [Mohamed Barakat](mailto:mohamed.barakat@ku.de)
 * [Max Horn](mailto:max.horn@math.uni-giessen.de)
 * [Frank Lübeck](mailto:frank.luebeck@math.rwth-aachen.de) (local organizer)
+
+
+## Sponsors
+
+This workshop is supported by [DFG Priority Project SPP 1489](http://www.computeralgebra.de/) and the [DFG Graduiertenkolleg "Experimentelle und konstruktive Algebra"](http://www.math.rwth-aachen.de/~Graduiertenkolleg/) at RWTH Aachen University.
