@@ -17,12 +17,16 @@ title: Program
 
 ## Suggested discussion & coding topics so far:
 
-1. Work on a beta release of HPC-GAP
+1. Work on a beta release of [HPC-GAP](http://www-circa.mcs.st-and.ac.uk/hpcgap.php)
    * Stabilize the single threaded mode
    * Simplify the installation
    * Offer support for package developers who want to migrate their packages
    * Discuss future plans regarding the integration with the main development line
-2. Document and automate the GAP release process
+2. Continue working on [libsing](http://gap-system.github.io/libsing/)
+   * Work on a stable version of libsing
+   * Enhance the documentation and write a tutorial
+   * Submit libsing to be deposited with the official GAP release
+3. Document and automate the GAP release process
    * Other GAP centers should be able to finalize a GAP release
    * Prepare GAP 4.8
 
