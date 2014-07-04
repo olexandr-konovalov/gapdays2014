@@ -35,4 +35,4 @@ If you have questions or suggestions, please contact the organizers:
 
 ## Sponsors
 
-This workshop is supported by [DFG Priority Project SPP 1489](http://www.computeralgebra.de/) and the [DFG Graduiertenkolleg "Experimentelle und konstruktive Algebra"](http://www.math.rwth-aachen.de/~Graduiertenkolleg/) at RWTH Aachen University.
+This workshop is supported by the [DFG Priority Project SPP 1489](http://www.computeralgebra.de/) and the [DFG Graduiertenkolleg "Experimentelle und konstruktive Algebra"](http://www.math.rwth-aachen.de/~Graduiertenkolleg/) at RWTH Aachen University.
