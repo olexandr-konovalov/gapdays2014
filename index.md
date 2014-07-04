@@ -17,7 +17,7 @@ you made.
 
 ## Registering and stay
 
-If you would like to attend, please [register](/register). This helps us
+If you would like to attend, please [register](/registration). This helps us
 with planning the workshop.
 
 The workshop will take place the RWTH Aachen University. Information about the
