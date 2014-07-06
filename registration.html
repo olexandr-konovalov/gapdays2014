@@ -22,7 +22,13 @@ with the information we ask for below
   <div class="form-field-title">
     <label for="name">Name <span class="form-field-req">*</span></label>
   </div>
-  <input type="text" size="60" maxlength="80" name="name" required />
+  <input type="text" size="60" maxlength="80" name="name" autofocus required />
+  <!-- autofocus with fallback for older browsers -->
+  <script>
+    if (!("autofocus" in document.createElement("input"))) {
+      document.getElementById("q").focus();
+    }
+  </script>
 </div>
 
 <div class="form-field">
