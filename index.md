@@ -6,14 +6,18 @@ title: Home
 # First [GAP](http://www.gap-system.org/) Days
 ## August 25-29, 2014, RWTH Aachen University
 
-[GAP](http://www.gap-system.org/) Days are meetings where developers and users are invited to influence the future
-development of GAP by initiating and contributing to discussions and coding sprints.
-As enough GAP experts will be around for technical support, the meetings also offers
-a good opportunity for people to work on their own packages. To streamline each meeting
-the organizers will usually suggest few main topics to address during the week.
+[GAP](http://www.gap-system.org/) Days are meetings where developers and users
+with GAP programming experience are invited to influence the future
+development of GAP by initiating and contributing to discussions and coding
+sprints. As enough GAP experts will be around for technical support, the
+meetings also offers a good opportunity for people to work on their own
+packages. To streamline each meeting the organizers will usually suggest a few
+main topics to work on during the week.
+
 The meetings are also suitable for advertising recent developments in core GAP
-and packages. At the end of the week, we would be happy to hear about any progress
-you made.
+and packages via short talks. However, the focus of the meeting is on code
+development, with talks only playing a minor role. At the end of the week, we
+would be happy to hear about any progress you made.
 
 ## Registering and stay
 
