@@ -10,7 +10,7 @@ title: Home
 with GAP programming experience are invited to influence the future
 development of GAP by initiating and contributing to discussions and coding
 sprints. As enough GAP experts will be around for technical support, the
-meetings also offers a good opportunity for people to work on their own
+meetings also offer good opportunities for people to work on their own
 packages. To streamline each meeting the organizers will usually suggest a few
 main topics to work on during the week.
 
