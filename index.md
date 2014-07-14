@@ -22,7 +22,8 @@ would be happy to hear about any progress you made.
 ## Registering and stay
 
 If you would like to attend, please [register](/registration). This helps us
-with planning the workshop.
+with planning the workshop. If you need financial support, please
+register before 1st of August.
 
 The workshop will take place the RWTH Aachen University. Information about the
 exact location and information about hotels
@@ -39,4 +40,6 @@ If you have questions or suggestions, please contact the organizers:
 
 ## Sponsors
 
-This workshop is supported by the [DFG Priority Project SPP 1489](http://www.computeralgebra.de/) and the [DFG Graduiertenkolleg "Experimentelle und konstruktive Algebra"](http://www.math.rwth-aachen.de/~Graduiertenkolleg/) at RWTH Aachen University.
+This workshop is supported by the
+[DFG Priority Project SPP 1489 "Algorithmic and Experimental Methods](http://www.computeralgebra.de/)
+and the [DFG Graduiertenkolleg "Experimentelle und konstruktive Algebra"](http://www.math.rwth-aachen.de/~Graduiertenkolleg/) at RWTH Aachen University.
