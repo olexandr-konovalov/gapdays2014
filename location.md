@@ -14,6 +14,7 @@ TODO: describe where it is going to take place exactly, how to get there; perhap
 We would like to ask the participants to book accomodation by themselves via an online booking site. For example,
  
  * [www.aachen.de](http://www.aachen.de/EN/ts/130_onlinebooking/index.html)
- * [booking.com](http://booking.com)
+ * [booking.com](http://www.booking.com)
+ * [HRS](http://www.hrs.de)
 
 
