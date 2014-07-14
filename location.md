@@ -16,5 +16,4 @@ We would like to ask the participants to book accomodation by themselves via an 
  * [www.aachen.de](http://www.aachen.de/EN/ts/130_onlinebooking/index.html)
  * [booking.com](http://www.booking.com)
  * [HRS](http://www.hrs.de)
-
-
+ * [Trivago](http://www.trivago.de)
