@@ -1,12 +1,81 @@
+- name: Benjamin Assarf
+  affiliation: TU Berlin
+
 - name: Mohamed Barakat
   affiliation: KU Eichstätt-Ingolstadt
   talk: homalg project
 
+- name: Reimer Behrends
+  affiliation: TU Kaiserslautern
+  talk: "HPC-GAP: Design and Implementation of a Concurrency Model for GAP"
+
+- name: Martin Bies
+  affiliation: ITP Heidelberg
+  talk: String theory, sheaf cohomology and the homalg package
+
+- name: Thomas Breuer
+  affiliation: RWTH Aachen University
+  talk: GAP packages AtlasRep, CTblLib, CTBlocks, MFER
+
+- name: Manuel Delgado
+  affiliation: University of Porto, Portugal
+  talk: GAP package intpic
+
+- name: Pedro A. García-Sánchez
+  affiliation: Universidad de Granada
+
+- name: Sebastian Gutsche
+  affiliation: TU Kaiserslautern
+  talk: GAP packages AutoDoc, ToolsForHomalg,  CategoriesForHomalg
+
+- name: Johannes Hahn
+  affiliation: FSU Jena
+  talk: GAP code for Coxeter groups and Kazhdan-Lusztig theory
+
 - name: Max Horn
   affiliation: JLU Gießen
-  talk: libsing
+  talk: GAP package libsing
+
+- name: Christopher Jefferson
+  affiliation: University of St Andrews
+  talk: Ferret - A modern C++ rewrite of Partition Backtracking in GAP
+
+- name: Delaram Kahrobaei
+  affiliation: City University of New York
+
+- name: Stefan Kohl
+
+- name: Alexander Konovalov
+  affiliation: University of St Andrews
+  talk: continuous integration, package update mechanism and release management in GAP
+
+- name: Luks Kühne
+  affiliation: TU Kaiserslautern
+
+- name: Steve Linton
+  affiliation: University of St Andrews
+
+- name: Benjamin Lorenz
+  affiliation: TU Berlin
 
 - name: Frank Lübeck
   affiliation: RWTH Aachen University
 
+- name: Markus Pfeiffer
+  affiliation: University of St Andrews
+  talk: "(HPC)GAP infrastructure packages in the making: GAPData and Matrix"
 
+- name: Sebastian Posur
+  affiliation: RWTH Aachen University
+  talk: CategoriesForHomalg
+
+- name: Christof Söger
+  affiliation: Universität Osnabrück
+  talk: GAP package NormalizInterface
+
+- name: Leonard Soicher
+  affiliation: Queen Mary University of London
+
+- name: VInay Wagh
+  affiliation: IIT Guwahati, India
+  talk: GAP package LessGenerators and the Quillen-Suslin algorithm
