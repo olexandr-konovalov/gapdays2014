@@ -61,6 +61,10 @@
 - name: Frank Lübeck
   affiliation: RWTH Aachen University
 
+- name: Hebert Pérez-Rosés
+  affiliation: University of Lleida
+  talk: Graph construction via voltage assignment with GAP
+
 - name: Markus Pfeiffer
   affiliation: University of St Andrews
   talk: "(HPC)GAP infrastructure packages in the making: GAPData and Matrix"
