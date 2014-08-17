@@ -52,6 +52,9 @@
 - name: Luks Kühne
   affiliation: TU Kaiserslautern
 
+- name: Samuel Lelièvre
+  affiliation: Université Paris-Sud
+
 - name: Steve Linton
   affiliation: University of St Andrews
 
@@ -72,6 +75,9 @@
 - name: Sebastian Posur
   affiliation: RWTH Aachen University
   talk: CategoriesForHomalg
+
+- name: Hans Schoenemann
+  affiliation: TU Kaiserslautern
 
 - name: Christof Söger
   affiliation: Universität Osnabrück
