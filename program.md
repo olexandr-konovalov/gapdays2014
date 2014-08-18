@@ -12,7 +12,8 @@ title: Program
   The final program will be released a week before the meeting.
 </p>
 
-* Begin: August 25, 10:00
+* Begin of coding sessions: August 25, 10:00
+* Welcoming session and first talks: August 25, 14:00
 * End: August 29, 16:00
 
 ## Suggested discussion & coding topics so far:
