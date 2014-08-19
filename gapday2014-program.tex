@@ -2,19 +2,32 @@
 \usepackage[left=2cm,right=2cm,top=1cm,bottom=1cm]{geometry}
 \pagestyle{empty}
 
+\usepackage[utf8]{inputenc}
+
+%
+% custom font
+%
+\usepackage[full]{textcomp} % to get the right copyright, etc.
+\usepackage{fbb} % osf for text, lining for math
+\usepackage[scaled=.95]{cabin}
+\usepackage[varqu,varl]{inconsolata}% typewriter
+\usepackage[libertine,bigdelims,vvarbb]{newtxmath}
+\usepackage[cal=boondoxo]{mathalfa}% less slanted than STIX
+\usepackage[T1]{fontenc}
+\useosf
+
+
 \usepackage{datetime}
-%\usepackage[yyyymmdd,hhmmss]{datetime}
+\usdate
 
 \usepackage{amsmath}
 \usepackage{amssymb}
 
 \usepackage{enumitem}
 
-\usepackage[utf8]{inputenc}
-\usepackage[english]{babel}
-
 \usepackage{xcolor}
 \usepackage[colorlinks=true]{hyperref}
+
 
 \newcommand{\TODO}[1]{\textcolor{red}{*** #1 ***}}
 
