@@ -5,7 +5,7 @@ title: Participants
 
 The following people have registered so far:
 
-<ul>
+<ol>
 {% for p in site.data.participants %}
   <li>
     <strong>{{ p.name }}</strong>
@@ -15,4 +15,4 @@ The following people have registered so far:
     {% endcomment %}
   </li>
 {% endfor %}
-</ul>
+</ol>
