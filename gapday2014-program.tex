@@ -8,6 +8,8 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 
+\usepackage{enumitem}
+
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 
@@ -49,7 +51,7 @@ in room 008, coding sessions in rooms 003 and 103.
 %
 %
 \newday{Tuesday, August 26}
-\vortrag{10:00}{Max Horn \& Sebastian Gutsche}{How to make a GAP package}
+\vortrag{10:00}{Sebastian Gutsche \& Max Horn}{How to make a GAP package}
 \vortrag{16:00}{Pedro A. García-Sánchez
 }{Recent progress in the \href{http://www.gap-system.org/Packages/numericalsgps.html}{NumericalSgps} package}
 \vortrag{16:30}{Manual Delgado}{\href{http://www.gap-system.org/Packages/intpic.html}{intpic} -- a package for drawing integers, by emphasizing some subsets.}
@@ -95,21 +97,39 @@ in room 008, coding sessions in rooms 003 and 103.
 \pagebreak
 
 
-
 % \Abstract{NAME}{AFFIL}{TITLE}
-\newenvironment{Abstract}[3]{\noindent\textbf{#1} (#2) \\ \noindent \textit{#3} \\ \noindent}{\bigskip}
+%\newenvironment{Abstract}[3]{\noindent\textbf{#1} (#2) \\ \noindent \textit{#3} \\ \noindent  \par{} \noindent}{\bigskip}
+\newenvironment{Abstract}[3]{\begin{itemize}[itemsep=0mm,label={}]
+  \item \textbf{#1} (#2)
+  \item ``\textit{#3}''
+  \item}{\end{itemize}\medskip}
 
 
 %\begin{center}
-{\noindent\huge\textbf{Abstracts}} \\[1em]
+{\noindent\huge\textbf{Abstracts of talks and sessions}} \\[1em]
 %\end{center}
 
-\begin{Abstract}{Max Horn \& Sebastian Gutsche}{JLU Gießen \& TU Kaiserslautern}{How to make a GAP package}
-\TODO{bla -- first a brief presentation about what is needed to make a GAP package.
-Next, we do that, interactively. (Involve PackageMaker???). Also: ``Package manuals done right: GAPDoc and AutoDoc''.
-Perhaps also discuss continuous integration possibilities (can I get Travis-CI integration ready in time?}
+\begin{Abstract}{Sebastian Gutsche \& Max Horn}{TU Kaiserslautern \& JLU Gießen}{How to make a GAP package}
 
-\TODO{Further topics can be covered on request by the participants, e.g. on how to integrate C / C++ code into a GAP package}
+In this hands-on workshop, we will explain the basic requirements for
+creating a simple GAP package from scratch. After a brief introduction,
+participants can immediately apply this with our help. For this,
+participants should bring their laptops and, if present, some code they
+want to publish in a package.
+%
+We also plan to cover more advanced aspects of creating and maintaining
+a GAP package.  Which topics are covered in part also depends on requests
+by participants. Some possibilities include:
+\begin{itemize}[itemsep=0mm]
+\item ``Package manuals done right: GAPDoc and AutoDoc'' (this will definitely be covered)
+\item Integrating C / C++ code into a GAP package
+\item Using GitHub pages as website for your package
+\item Automating the package release process with GitHub
+\item The importance of package tests and continuous integration
+\item Example for automated testing using GitHub and Jenkins
+\item ...
+\end{itemize}
+
 \end{Abstract}
 
 
