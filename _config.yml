@@ -25,3 +25,7 @@ baseurl:          /
 #
 #github:
 #  repo:           https://github.com/fingolfin/gapdays2014
+
+
+exclude: [ "gapday2014-program.*" ]
+include: [ "gapday2014-program.pdf" ]

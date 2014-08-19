@@ -1,0 +1,134 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[left=2cm,right=2cm,top=1cm,bottom=1cm]{geometry}
+\pagestyle{empty}
+
+\usepackage{datetime}
+%\usepackage[yyyymmdd,hhmmss]{datetime}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+\usepackage{xcolor}
+\usepackage[colorlinks=true]{hyperref}
+
+\newcommand{\TODO}[1]{\textcolor{red}{*** #1 ***}}
+
+\begin{document}
+
+\begin{center}
+{\huge\textbf{Program of the GAP Days 2014, August 25-29}\\[2mm]}
+Version from \today\ at \currenttime\\[2mm]
+Talks are at \href{https://maps.google.com/maps?q=Pontdriesch+14,+Aachen,+Germany&hl=en&ll=50.778617,6.080579&spn=0.004993,0.008969&sll=37.0625,-95.677068&sspn=50.777825,73.476563&oq=pontdriesch+14+&hnear=Pontdriesch+14,+Mitte+52062+Aachen,+Germany&t=m&z=17}{Pontdriesch 14/16}
+in room 008, coding sessions in rooms 003 and 103.
+\end{center}
+
+% \vortrag{TIME}{AUTHOR}{TITLE}
+\newcommand{\vortrag}[3]{#1 & #2 \\ & \textit{#3} \\}
+%\newcommand{\vortrag}[3]{#1 & #2: ``\textit{#3}'' \\}
+
+\newcommand{\newday}[1]{\multicolumn{2}{c}{{\large\textbf{#1}}} \\[1em]}
+
+
+\begin{tabular}{rp{14.5cm}}
+%
+\newday{Monday, August 25}
+10:00 & Coding session and discussion \\
+14:00 & Welcome session (room 008) \\
+\vortrag{15:00}{Vinay Wagh}{\href{https://github.com/homalg-project/LessGenerators}{LessGenerators} -- finding small generating sets for modules (part of the homalg project)}
+\vortrag{15:30}{Martin Bies}{String theory, sheaf cohomology and the homalg package}
+\vortrag{16:00}{Johannes Hahn}{Coxeter groups and Kazhdan-Lusztig theory in GAP}
+\vortrag{16:30}{Chris Jefferson}{Ferret -- a modern C++ rewrite of Partition Backtracking in GAP}
+\vortrag{17:00}{Max Horn}{\href{http://gap-system.github.io/libsing/}{libsing} -- an interface between \href{http://www.singular.uni-kl.de/}{Singular} and GAP}
+\vortrag{17:30}{Christof Söger}{\href{https://github.com/fingolfin/NormalizInterface}{NormalizInterface} -- an interface between \href{http://www.math.uos.de/normaliz}{normaliz} and GAP}
+%
+%
+\\
+%
+%
+\newday{Tuesday, August 26}
+\vortrag{10:00}{Max Horn \& Sebastian Gutsche}{How to make a GAP package}
+\vortrag{16:00}{Pedro A. García-Sánchez
+}{Recent progress in the \href{http://www.gap-system.org/Packages/numericalsgps.html}{NumericalSgps} package}
+\vortrag{16:30}{Manual Delgado}{\href{http://www.gap-system.org/Packages/intpic.html}{intpic} -- a package for drawing integers, by emphasizing some subsets.}
+\vortrag{17:00}{Hebert Perez-Roses}{Graph construction via voltage assignment with GAP}
+\vortrag{17:30}{Delaram Kahrobaei}{TBA}
+%
+%
+\\
+%
+%
+\newday{Wednesday, August 27}
+\vortrag{10:00}{Reimer Behrends}{HPC-GAP: Design and Implementation of a Concurrency Model for GAP}
+\vortrag{16:20}{Markus Pfeiffer}{Two (HPC)GAP infrastructure packages in the making: GAPData and Matrix}
+\vortrag{16:50}{Sebastian Gutsche \& Sebastian Posur}{ToolsForHomalg - Tools for caching and propagation \& CategoriesForHomalg - A GAP-based meta language for category theory based computations}
+\vortrag{17:30}{Thomas Breuer}{Recent progress concerning the GAP packages AtlasRep, CTblLib, CTBlocks, MFER}
+
+19:00 & Dinner at the ``\href{http://www.labyrinthaachen.de/}{Labyrinth}'' \\
+%
+%
+\\
+%
+%
+\newday{Thursday, August 28}
+\vortrag{10:00}{Alexander Konovalov}{Continuous integration, package update mechanism and release management in GAP}
+%
+%
+\\
+%
+%
+\newday{Friday, August 29}
+10:00 & Open discussion: Your wishes for the future of GAP \\ 
+13:30 & Open discussion: Results of the meeting, feedback \\
+
+\end{tabular}
+
+\vfill
+
+\begin{center}
+  \url{http://gapdays2014.coxeter.de/}
+\end{center}
+
+
+\pagebreak
+
+
+
+% \Abstract{NAME}{AFFIL}{TITLE}
+\newenvironment{Abstract}[3]{\noindent\textbf{#1} (#2) \\ \noindent \textit{#3} \\ \noindent}{\bigskip}
+
+
+%\begin{center}
+{\noindent\huge\textbf{Abstracts}} \\[1em]
+%\end{center}
+
+\begin{Abstract}{Max Horn \& Sebastian Gutsche}{JLU Gießen \& TU Kaiserslautern}{How to make a GAP package}
+\TODO{bla -- first a brief presentation about what is needed to make a GAP package.
+Next, we do that, interactively. (Involve PackageMaker???). Also: ``Package manuals done right: GAPDoc and AutoDoc''.
+Perhaps also discuss continuous integration possibilities (can I get Travis-CI integration ready in time?}
+
+\TODO{Further topics can be covered on request by the participants, e.g. on how to integrate C / C++ code into a GAP package}
+\end{Abstract}
+
+
+\begin{Abstract}{Hebert Perez-Roses}{University of Lleida, Spain}{Graph construction via voltage assignment with GAP}
+The voltage assignment technique takes a directed "base" graph $B$, and a
+group $G$, and constructs another graph $L$ with $|L|=|B||G|$ vertices, where
+$|B|$ is the number of vertices of $|B|$. $L$ is usually called the lift of $B$
+by $G$, and is a generalization of Cayley graphs. The voltage assignment
+technique has been very successful in the construction of large graphs
+with small degree and diameter. We are now working on the implementation
+of this technique in GAP, and we would like to bring into consideration
+of the GAP community the algorithms and data structures used, as well as
+to discuss the best alternatives for an efficient implementation.
+\end{Abstract}
+
+
+\begin{Abstract}{Vinay Wagh}{IIT Guwahati, India}{\href{https://github.com/homalg-project/LessGenerators}{LessGenerators} -- finding small generating sets for modules (part of the homalg project)}
+	A GAP package called "LessGenerators" has been developed by Mohamed Barakat and myself, to implement the Quillen-Suslin algorithm in computer algebra systems SINGULAR and GAP. The package is part of the homalg project. The aim of this package is to provide a tool for finding a minimal generating set for a given module. The package provides universal implementation in the sense of CASs, i.e. it can use any CAS supported by the homalg project for ring arithmetic.
+\end{Abstract}
+
+
+\end{document}
