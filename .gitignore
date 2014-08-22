@@ -13,3 +13,5 @@ _site
 *.synctex.gz(busy)
 *.thm
 *.toc
+
+misc/badges.pdf
