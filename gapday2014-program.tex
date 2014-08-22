@@ -66,7 +66,7 @@ in room 008, coding sessions in rooms 003 and 103.
 \newday{Tuesday, August 26}
 \vortrag{10:00}{Sebastian Gutsche \& Max Horn}{How to make a GAP package}
 \vortrag{16:00}{Pedro A. García-Sánchez
-}{Recent progress in the \href{http://www.gap-system.org/Packages/numericalsgps.html}{NumericalSgps} package}
+}{New features of the \href{http://www.gap-system.org/Packages/numericalsgps.html}{numericalsgps} package}
 \vortrag{16:30}{Manuel Delgado}{\href{http://www.gap-system.org/Packages/intpic.html}{intpic} -- a package for drawing integers, by emphasizing some subsets.}
 \vortrag{17:00}{Hebert Perez-Roses}{Graph construction via voltage assignment with GAP}
 \vortrag{17:30}{Delaram Kahrobaei}{Conjugacy problem in polycyclic groups in GAP and applications}
@@ -122,6 +122,19 @@ in room 008, coding sessions in rooms 003 and 103.
 {\noindent\huge\textbf{Abstracts of talks and sessions}} \\[1em]
 %\end{center}
 
+\begin{Abstract}{Pedro A. García-Sánchez}{Universidad de Granada}{New features of the \texttt{numericalsgps} package}
+We will talk about the new functionalities of the development version
+of \texttt{numericalsgps}, that will become a new version during the gap
+days. We will also review some issues we encountered on the way, specifically
+dealing with polynomials and solutions of linear Diophantine equations. For
+the functions dealing with polynomials we dealt with the \texttt{singular}
+package, for the second we used \texttt{4ti2Interface}. The difficulty
+for the avarage user to install and work with these packages prevented us
+to include some already implemented functions in the package. Finally,
+we will discuss some of he future plans for \texttt{numericalsgps}.
+\end{Abstract}
+
+
 \begin{Abstract}{Sebastian Gutsche \& Max Horn}{TU Kaiserslautern \& JLU Gießen}{How to make a GAP package}
 
 In this hands-on workshop, we will explain the basic requirements for
@@ -159,8 +172,31 @@ to discuss the best alternatives for an efficient implementation.
 \end{Abstract}
 
 
+\begin{Abstract}{Christof Söger}{Universität Osnabrück}{\href{https://github.com/fingolfin/NormalizInterface}{NormalizInterface} -- an interface between \href{http://www.math.uos.de/normaliz}{normaliz} and GAP}
+Normaliz is a software for computations with rational cones and affine
+monoids. It pursues two main computational goals: finding the Hilbert
+basis, a minimal generating system of the monoid of lattice points of a
+cone; and counting elements degree-wise in a generating function, the
+Hilbert series. As a recent extension, Normaliz can handle unbounded
+polyhedra. The Hilbert basis computation can be considered as solving a
+linear diophantine system of inhomogeneous equations, inequalities and
+congruences.
+
+We are working on a Normaliz interface to GAP. It encapsulates a
+libnormaliz cone and gives access to it in the GAP enviroment. In this
+way GAP can be used as interactive interface to libnormaliz. We will
+show how it can be used currently.
+\end{Abstract}
+
+
 \begin{Abstract}{Vinay Wagh}{IIT Guwahati, India}{\href{https://github.com/homalg-project/LessGenerators}{LessGenerators} -- finding small generating sets for modules (part of the homalg project)}
-	A GAP package called "LessGenerators" has been developed by Mohamed Barakat and myself, to implement the Quillen-Suslin algorithm in computer algebra systems SINGULAR and GAP. The package is part of the homalg project. The aim of this package is to provide a tool for finding a minimal generating set for a given module. The package provides universal implementation in the sense of CASs, i.e. it can use any CAS supported by the homalg project for ring arithmetic.
+A GAP package called "LessGenerators" has been developed by Mohamed
+Barakat and myself, to implement the Quillen-Suslin algorithm in
+computer algebra systems SINGULAR and GAP. The package is part of the
+homalg project. The aim of this package is to provide a tool for finding
+a minimal generating set for a given module. The package provides
+universal implementation in the sense of CASs, i.e. it can use any CAS
+supported by the homalg project for ring arithmetic.
 \end{Abstract}
 
 
