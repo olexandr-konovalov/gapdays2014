@@ -3,8 +3,6 @@ layout: page
 title: Participants
 ---
 
-The following people have registered so far:
-
 <ol>
 {% for p in site.data.participants %}
   <li>
