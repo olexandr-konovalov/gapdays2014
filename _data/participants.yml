@@ -84,6 +84,8 @@
 - name: Christof Söger
   affiliation: Universität Osnabrück
   talk: GAP package NormalizInterface
+  slides: Christof_Soeger.pdf
+  demo: Christof_Soeger.g
 
 - name: Leonard Soicher
   affiliation: Queen Mary University of London
