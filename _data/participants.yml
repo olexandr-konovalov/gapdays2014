@@ -20,10 +20,11 @@
 - name: Manuel Delgado
   affiliation: University of Porto
   talk: GAP package intpic
+  slides: GAP_Days_2014_mdelgado.pdf
 
 - name: Pedro A. García-Sánchez
   affiliation: Universidad de Granada
-  slides: gapdays-2014-pedro-gs.pdf
+  slides: GAP_Days_2014-pedro-gs.pdf
 
 - name: Sebastian Gutsche
   affiliation: TU Kaiserslautern
@@ -32,12 +33,12 @@
 - name: Johannes Hahn
   affiliation: FSU Jena
   talk: GAP code for Coxeter groups and Kazhdan-Lusztig theory
-  slides: Johannes_Hahn.pdf
+  slides: GAP_Days_2014_Johannes_Hahn.pdf
 
 - name: Max Horn
   affiliation: JLU Gießen
   talk: GAP package libsing
-  slides: Max_Horn-libsing-2014-08-25.pdf
+  slides: GAP_Days_2014_Max_Horn.pdf
 
 - name: Christopher Jefferson
   affiliation: University of St Andrews
@@ -51,6 +52,7 @@
 - name: Alexander Konovalov
   affiliation: University of St Andrews
   talk: continuous integration, package update mechanism and release management in GAP
+  slides: GAP_Days_2014_Konovalov.pdf
 
 - name: Lukas Kühne
   affiliation: TU Kaiserslautern
@@ -70,7 +72,7 @@
 - name: Hebert Pérez-Rosés
   affiliation: University of Lleida
   talk: Graph construction via voltage assignment with GAP
-  slides: Hebert_Perez-Roses.pdf
+  slides: GAP_Days_2014_Hebert_Perez-Roses.pdf
 
 - name: Markus Pfeiffer
   affiliation: University of St Andrews
@@ -86,8 +88,8 @@
 - name: Christof Söger
   affiliation: Universität Osnabrück
   talk: GAP package NormalizInterface
-  slides: Christof_Soeger.pdf
-  demo: Christof_Soeger.g
+  slides: GAP_Days_2014_Christof_Soeger.pdf
+  demo: GAP_Days_2014_Christof_Soeger.g
 
 - name: Leonard Soicher
   affiliation: Queen Mary University of London
