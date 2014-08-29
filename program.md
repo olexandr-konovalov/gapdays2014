@@ -9,6 +9,12 @@ title: Program
 * Joint dinner: Wednesday, August 27, 19:00 in the "[Labyrinth](http://www.labyrinthaachen.de)"
 * End: August 29, 16:00
 
+For submitting issues (bugs, ideas for enhancements, etc.) in the GAP system, please use our
+[BitBucket GitHub tracker](https://bitbucket.org/gap-system/gap/issues).
+
+Please also have a look at the [GAP Days 2014 wiki](https://github.com/gap-system/gapdays2014/wiki)
+for links to the issue tracker, our discussion on the future of GAP etc.
+
 ## Suggested discussion & coding topics:
 
 1. Work on a beta release of [HPC-GAP](http://www-circa.mcs.st-and.ac.uk/hpcgap.php)
