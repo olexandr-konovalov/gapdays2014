@@ -12,6 +12,7 @@
 - name: Martin Bies
   affiliation: ITP Heidelberg
   talk: String theory, sheaf cohomology and the homalg package
+  slides: GAP_Days_2014_Martin_Bies.pdf
 
 - name: Thomas Breuer
   affiliation: RWTH Aachen University
