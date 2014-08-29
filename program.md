@@ -11,8 +11,8 @@ title: Program
 
 * [Group photo](/photos/P1040300.JPG)
 
-* For submitting issues (bugs, ideas for enhancements, etc.) in the GAP system, please use our
-[BitBucket GitHub tracker](https://bitbucket.org/gap-system/gap/issues).
+* For submitting issues (bugs, ideas for enhancements, etc.) in the GAP system, please use the
+[GAP issue tracker at BitBucket](https://bitbucket.org/gap-system/gap/issues).
 
 * Please also have a look at the [GAP Days 2014 wiki](https://github.com/gap-system/gapdays2014/wiki)
 for links to the issue tracker, our discussion on the future of GAP etc.
