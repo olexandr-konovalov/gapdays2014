@@ -4,15 +4,17 @@ title: Program
 ---
 
 * [Schedule and abstracts as PDF](/gapday2014-program.pdf)
-* Begin of coding sessions: August 25, 10:00
-* Welcoming session and first talks: August 25, 14:00
-* Joint dinner: Wednesday, August 27, 19:00 in the "[Labyrinth](http://www.labyrinthaachen.de)"
-* End: August 29, 16:00
+  * Begin of coding sessions: August 25, 10:00
+  * Welcoming session and first talks: August 25, 14:00
+  * Joint dinner: Wednesday, August 27, 19:00 in the "[Labyrinth](http://www.labyrinthaachen.de)"
+  * End: August 29, 16:00
 
-For submitting issues (bugs, ideas for enhancements, etc.) in the GAP system, please use our
+* [Group photo](/photos/P1040300.JPG)
+
+* For submitting issues (bugs, ideas for enhancements, etc.) in the GAP system, please use our
 [BitBucket GitHub tracker](https://bitbucket.org/gap-system/gap/issues).
 
-Please also have a look at the [GAP Days 2014 wiki](https://github.com/gap-system/gapdays2014/wiki)
+* Please also have a look at the [GAP Days 2014 wiki](https://github.com/gap-system/gapdays2014/wiki)
 for links to the issue tracker, our discussion on the future of GAP etc.
 
 ## Suggested discussion & coding topics:
