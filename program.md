@@ -9,8 +9,6 @@ title: Program
   * Joint dinner: Wednesday, August 27, 19:00 in the "[Labyrinth](http://www.labyrinthaachen.de)"
   * End: August 29, 16:00
 
-* [Group photo](/photos/P1040300.JPG)
-
 * For submitting issues (bugs, ideas for enhancements, etc.) in the GAP system, please use the
 [GAP issue tracker at BitBucket](https://bitbucket.org/gap-system/gap/issues).
 
