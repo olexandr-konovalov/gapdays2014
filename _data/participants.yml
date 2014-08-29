@@ -30,6 +30,7 @@
 - name: Sebastian Gutsche
   affiliation: TU Kaiserslautern
   talk: GAP packages AutoDoc, ToolsForHomalg,  CategoriesForHomalg
+  slides: GAP_Days_2014_Gutsche_Posur.pdf
 
 - name: Johannes Hahn
   affiliation: FSU Jena
@@ -82,6 +83,7 @@
 - name: Sebastian Posur
   affiliation: RWTH Aachen University
   talk: CategoriesForHomalg
+  slides: GAP_Days_2014_Gutsche_Posur.pdf
 
 - name: Hans Schoenemann
   affiliation: TU Kaiserslautern
