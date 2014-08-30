@@ -1,0 +1,14 @@
+This file collects the reports in raw format:
+
+---
+Pedro A. García-Sánchez (numericalsgps)
+
+The meeting GAPDays2014 has been of great interest for me. Apart from the nice talks and discussions after them, the opportunity to meat some of the developers of other packages has been not only a pleasure and honor, but a chance to learn a lot from them.
+
+In particular the development version of  our (M. Delgado and I; see https://bitbucket.org/mdelgado/numericalsgps) package numericalsgps already contains functions that make use of NormalizInterface (thanks to C. Söger to help me install it on my computer) and libsing (thanks to M. Horn for guiding me through the installation). As an example, discussions with H. Schöneman yield a new implementation of the homogeneous Betti elements of a numerical semigroup (and thus the homogeneous catenary degree). For instance, for <100,123,145,156,167,201,210,221,309> it takes 154 milliseconds with libsing, compared with the 85942 that takes with the gap built in Gröbner basis  computation.
+
+We hope that these improvements will also allow us to extend the scope of some functions that work now only for numerical semigroups (including affine semigroups, and in particular block monoids).
+
+For all this, I would like to thank again the organizers for their great job, and also the rest of participants. I hope that (brainstorm) meetings will take place again in a near future.
+---
+
