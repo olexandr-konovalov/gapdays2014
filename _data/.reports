@@ -11,4 +11,21 @@ We hope that these improvements will also allow us to extend the scope of some f
 
 For all this, I would like to thank again the organizers for their great job, and also the rest of participants. I hope that (brainstorm) meetings will take place again in a near future.
 ---
+Christof Söger (NormalizInterface)
 
+We did further work on the interface to make installation easier and to supply a clearer and more powerful interface. Also a first user started to utilize the package and helped to find bugs. We hope to publish a first version to the public soon.
+---
+Alexander Konovalov
+
+You could mention something about making progress towards GAP 4.7.6 and GAP 4.8 releases and the beta-release of HPC-GAP among other achievements, and also characterise some topics of our discussions.
+---
+Johannes Hahn
+
+- I learned how to make a package and to use AutoDoc
+- I (re)learned about the existence and use of ToDo lists in homalg
+- I decided to work together with Frank Lübeck and Hebert Pérez-Rosés in order to combine our respective code pieces to maybe publish a bunch of packages that will in the end constitute a GAP4 replacement for CHEVIE
+---
+Stephen Linton
+
+Most important to me was having the opportunity to test hpcgap with a range of applications and package. Pleasingly it stood up quite well and porting simpler packages to run under it seems be fairly routine.  I also had  number of useful discussions about the future direction and governance of GAP.
+---
