@@ -19,3 +19,16 @@ title: Participants
   </li>
 {% endfor %}
 </ol>
+
+Feedback
+
+<ul>
+{% for p in site.data.feedback %}
+  <li>
+    <strong>{{ p.name }}</strong>
+    {% if p.package != null %} (author of {{ p.package }}){% endif %}
+    <br/>
+    {% if p.feedback != null %} {{ p.feedback }}{% endif %}
+  </li>
+{% endfor %}
+</ul>
