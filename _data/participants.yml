@@ -8,6 +8,7 @@
 - name: Reimer Behrends
   affiliation: TU Kaiserslautern
   talk: "HPC-GAP: Design and Implementation of a Concurrency Model for GAP"
+  slides: GAP_Days_2014_Reimer_Behrends.pdf
 
 - name: Martin Bies
   affiliation: ITP Heidelberg
